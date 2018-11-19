@@ -8,11 +8,9 @@
 <title>Resume Builder</title>
 </head>
 <body>
-
+	<center><b><%=GlobalConstants.MESSAGE%></b></center>
 	<a href="PersonalDetails.jsp" > Fill Resume </a> <br>
 	<a href="ViewResume.jsp"> Print Resume</a>
-	
-
 	
 </body>
 </html>
